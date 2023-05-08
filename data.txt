@@ -1,0 +1,11 @@
+# Rechart
+https://recharts.org/en-US/
+
+# Material Icons
+https://mui.com/material-ui/getting-started/installation/
+
+# Box Shadow Generator
+https://html-css-js.com/css/generator/box-shadow/
+
+# React Practice CodeSandbox
+https://codesandbox.io/s/react-new?file=/src/App.js
